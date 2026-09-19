@@ -1,2 +1,3 @@
 # Test-Group-Created-
 The test group was created to tell GoPhish who should receive my phishing simulation.
+I created the test group in GoPhish so I can choose who receives my phishing test email. For now, I only added my own email, Gleshaycurrie@gmail.com, because I want to test everything on myself first. The email template is the message I am sending, the sending profile is the email account I am sending it from, the test group is who receives it, and the landing page is what appears after I click the test link. This allows me to make sure my Currie’s Defense tool and GoPhish campaign are working correctly before I do any testing with other authorized users.
